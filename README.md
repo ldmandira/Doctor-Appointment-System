@@ -20,4 +20,4 @@ Once the patient is logged into the program, they are first redirected to the ap
 
 
 And also the patients and receptionist can view available slots in doctor appointments.In example, select the doctor and push the checks for available slots button we can view the available slots in “green colour” and red colour represent already made appointments time slots.
-
+![image](https://user-images.githubusercontent.com/68580812/197378040-a21a02a5-8106-4e96-a2e2-eb8ed302ac93.png)
