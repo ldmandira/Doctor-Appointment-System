@@ -16,4 +16,8 @@ The receptionist can log in to the program from the interface where patients log
 
 
 Once the patient is logged into the program, they are first redirected to the appointment booking interface. Once the patient’s name, phone number, doctor’s name and time have been selected, appointments can be booked.If the appointment is booked the message box will display “Appointment is created successfully” and display the token no of the patient.
+![image](https://user-images.githubusercontent.com/68580812/197378003-c78276f8-0f38-4bf9-8657-62b4c2e28f8a.png)
+
+
+And also the patients and receptionist can view available slots in doctor appointments.In example, select the doctor and push the checks for available slots button we can view the available slots in “green colour” and red colour represent already made appointments time slots.
 
