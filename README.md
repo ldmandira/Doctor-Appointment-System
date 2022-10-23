@@ -13,3 +13,6 @@ Doctors can log in to the program by giving them their email and password by cli
 
 The receptionist can log in to the program from the interface where patients log in to the program. Only the receptionist will be able to view the Appointment records there.The receptionist will also be able to view available time slots, Registered Users  and book appointments and cancel appointments with patients who may not be booked or who want to cancel appointments.
 ![image](https://user-images.githubusercontent.com/68580812/197377752-b659e80b-0b16-4761-b9d4-bb431f8fbfd1.png)
+
+
+Once the patient is logged into the program, they are first redirected to the appointment booking interface. Once the patient’s name, phone number, doctor’s name and time have been selected, appointments can be booked.
