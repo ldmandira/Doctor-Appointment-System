@@ -15,5 +15,5 @@ The receptionist can log in to the program from the interface where patients log
 ![image](https://user-images.githubusercontent.com/68580812/197377752-b659e80b-0b16-4761-b9d4-bb431f8fbfd1.png)
 
 
-Once the patient is logged into the program, they are first redirected to the appointment booking interface. Once the patient’s name, phone number, doctor’s name and time have been selected, appointments can be booked.
-![image](https://user-images.githubusercontent.com/68580812/197377820-a39afd92-e4f5-48a6-ab17-bf12315abf30.png)
+Once the patient is logged into the program, they are first redirected to the appointment booking interface. Once the patient’s name, phone number, doctor’s name and time have been selected, appointments can be booked.If the appointment is booked the message box will display “Appointment is created successfully” and display the token no of the patient.
+
