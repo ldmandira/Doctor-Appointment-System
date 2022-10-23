@@ -7,3 +7,4 @@ This program is make for a family medical service and it’s name is called firs
 
 Doctors can log in to the program by giving them their email and password by clicking the login as a doctor button. Doctors can then view their appointments separately.
 
+![image](https://user-images.githubusercontent.com/68580812/197377619-8be20a3e-e79c-4e97-a350-a545ae4b9c0a.png)
